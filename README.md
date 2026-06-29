@@ -1,2 +1,21 @@
-# LanguageTranslator
-AI-powered multilingual translator with speech recognition, text-to-speech, semantic similarity analysis, and Gemini AI chatbot built using Python, Gradio, Whisper, Transformers, and spaCy.
+# AI Language Translator & Gemini Chatbot
+
+## Features
+
+- Speech-to-Text using Whisper
+- Language Detection using spaCy
+- Translation using Facebook M2M100
+- Text-to-Speech using gTTS
+- Semantic Similarity Comparison
+- Gemini AI Chatbot
+- Gradio User Interface
+
+## Technologies
+
+- Python
+- Gradio
+- Whisper
+- spaCy
+- Transformers
+- Sentence Transformers
+- Google Gemini API
